@@ -1,0 +1,424 @@
+.col img{
+    width: 5%;
+    margin-left: 30px;
+}
+.back{
+    display: flex;
+}
+.one {
+	background-color: black;
+	width: 29px;
+	height: 3px;
+	position: relative;
+	margin-top: -55px;
+	margin-left: 1164px;
+}
+
+.two{
+    background-color: black;
+	width: 29px;
+	height: 3px;
+    margin-top: -45px;
+    margin-left: -29px;
+}
+.three{
+    background-color: black;
+	width: 29px;
+	height: 3px;
+    margin-top: -35px;
+    margin-left: -29px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* first project start */
+.all-one {
+	width: 500px;
+	height: 505px;
+	background-color: #D5993B;
+	margin-left: 700px;
+	margin-top: 65px;
+}
+.all-two {
+	background-color: #332F29;
+	width: 765px;
+	margin-top: -554px;
+	height: 599px;
+	margin-left: 51px;
+}
+.all-two h1 {
+	color: #D5993B;
+	margin-left: 35px;
+	position: relative;
+	top: 90px;
+	font-size: 89px;
+	font-weight: 500;
+    font-family: 'Monserrant',sans-serif;
+}
+.all-two p {
+	color: white;
+	width: 462px;
+	font-size: 21px;
+	margin-top: 102px;
+	margin-left: 32px;
+	font-style: italic;
+}
+.all-three p {
+	margin-top: 31px;
+	font-size: 19px;
+    font-family: 'open sans',sans-serif;
+}
+.all-three a{
+    color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+}
+.all-four a {
+	text-decoration: none;
+	position: relative;
+	top: 26px;
+	text-transform: uppercase;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: bold;
+	border-bottom: none;
+	letter-spacing: 2px;
+	border: 1px solid white;
+	padding: 17px 44px;
+}
+.all-four a:hover{
+    color: #D5993B;
+    background-color: white;
+}
+.preety img {
+	width: 40%;
+	margin-top: -448px;
+	margin-left: 600px;
+	height: 569px;
+	position: relative;
+	top: -31px;
+}
+/* first project end */
+/* second project start */
+.about{
+    margin-top: 60px;
+}
+.about-one h1 {
+	text-align: center;
+	font-size: 62px;
+	font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about-one p {
+	text-align: center;
+	margin-top: 32px;
+	font-size: 21px;
+	font-style: italic;
+	color: #0000007a;
+}
+.about-two {
+	display: flex;
+	margin-top: 93px;
+	margin-left: 122px;
+	gap: 297px;
+}
+.about-two img{
+    background-color: #D5993B;
+    border-radius: 50%;
+}
+.about-three {
+	display: flex;
+	margin-top: 29px;
+	margin-left: 125px;
+	gap: 284px;
+}
+.about-three h1 {
+	font-size: 21px;
+	font-weight: 500;
+    text-transform: uppercase;
+	font-family: 'open sans',sans-serif;
+}
+.about-four {
+	display: flex;
+	margin-left: 85px;
+	gap: 128px;
+}
+.about-four p {
+	margin-top: 30px;
+	width: 300px;
+	font-size: 17px;
+	font-style: italic;
+	color: #0000008c;
+}
+.dream {
+	display: flex;
+	margin-top: 93px;
+	margin-left: 122px;
+	gap: 297px;
+}
+.dream img{
+    background-color: #D5993B;
+    border-radius: 50%;
+}
+.dream-one {
+	display: flex;
+	margin-top: 29px;
+	margin-left: 140px;
+	gap: 347px;
+}
+.dream-one h1 {
+	font-size: 21px;
+	font-weight: 500;
+    text-transform: uppercase;
+	font-family: 'open sans',sans-serif;
+}
+.sit {
+	display: flex;
+	margin-left: 85px;
+	gap: 128px;
+}
+.sit p {
+	margin-top: 30px;
+	width: 300px;
+	font-size: 17px;
+	font-style: italic;
+	color: #0000008c;
+}
+/* second project end */
+/* third project start */
+.make{
+    margin-top: 150px;
+}
+.make-one h1 {
+	text-align: center;
+	font-size: 52px;
+	font-weight: 500;
+	word-spacing: 17px;
+    font-family: 'Monserrant',sans-serif;
+}
+.make-one p {
+	text-align: center;
+	margin-top: 30px;
+	font-size: 18px;
+	font-style: italic;
+}
+.make-two {
+	background-color: #D5993B;
+	width: 1131px;
+	height: 491px;
+	margin-left: 60px;
+	margin-top: 90px;
+}
+.make-three img {
+	width: 79%;
+	margin-top: -416px;
+	height: 536px;
+	margin-left: 121px;
+}
+/* third project end */
+/* four project start */
+.focus-one h1 {
+	margin-left: 233px;
+	font-size: 56px;
+	font-weight: 500;
+	margin-top: 48px;
+    font-family: 'Montserrant',sans-serif;
+}
+.focus-one p {
+	margin-top: 31px;
+	width: 445px;
+	font-size: 20px;
+	margin-left: 174px;
+	line-height: 33px;
+	font-style: italic;
+}
+.sed {
+	margin-top: -264px;
+	margin-left: 753px;
+}
+.sed h3 {
+	font-size: 24px;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+.sed p {
+	position: relative;
+	top: 16px;
+	margin-left: 21px;
+	line-height: 13px;
+	font-size: 17px;
+    font-family: 'open sans',sans-serif;
+}
+.free p {
+	margin-left: 771px;
+	margin-top: 32px;
+    font-family: 'open sans',sans-serif;
+}
+.free a{
+    color: black;
+}
+.pic a {
+	margin-left: 769px;
+	text-decoration: none;
+	color: black;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	border: 3px solid;
+	padding: 10px 34px;
+	position: relative;
+	top: 10px;
+}
+/* four project end */
+/* five project start */
+.sub{
+    background-color: #332F29;
+    margin-top: 92px;
+    height: 532px;
+}
+.meet {
+	background-color: #D5993B;
+	width: 583px;
+	margin-left: 53px;
+	height: 532px;
+}
+.meet h1 {
+	position: relative;
+	top: 45px;
+	margin-left: 79px;
+	font-size: 46px;
+	font-weight: 500;
+	color: white;
+    font-family: 'Monserrant',sans-serif;
+}
+.meet form {
+	position: relative;
+	top: 87px;
+	padding: 0;
+}
+form input {
+	padding: 12px;
+	margin-left: 22px;
+	position: relative;
+	left: 22px;
+}
+.late {
+	margin-left: 25px;
+	color: white;
+	margin-top: 28px;
+}
+.area {
+	padding: 18px;
+	margin-left: 43px;
+	margin-top: 26px;
+	width: 452px;
+}
+.up a {
+	position: relative;
+	top: 119px;
+	margin-left: 40px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 15px;
+	letter-spacing: 2px;
+	border: 1px solid;
+	padding: 13px 21px;
+	background-color: white;
+    color: #D5993B;
+}
+.down img {
+	margin-top: -563px;
+	margin-left: 636px;
+	width: 43%;
+	height: 532px;
+	position: relative;
+	top: 1px;
+}
+.down p {
+	margin-left: 1005px;
+	position: relative;
+	top: -74px;
+	color: white;
+	font-style: italic;
+	text-transform: capitalize;
+}
+.down a{
+    color: white;
+}
+/* five project end */
+/* six projext start */
+.plate{
+    background-color: #332F29;
+    height: 200px;
+}
+.plate-one p{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 41px;
+    font-size: 14px;
+}
+.with {
+	display: flex;
+	position: relative;
+	top: 89px;
+	margin-left: 501px;
+	font-size: 15px;
+    gap: 3px;
+    color: white;
+}
+.with a{
+    color: #adcce9;
+}
+/* six projext end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
